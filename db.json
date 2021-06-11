@@ -10,6 +10,7 @@
          "tags":"Zob;Zib;Zab;Zub",
          "is_draft":"false",
          "id_shopify":14528766545,
+         "featured_image": "https://picsum.photos/200/300",
          "variants":{
             "green":{
                "id":454545454545,
@@ -63,6 +64,7 @@
          "tags":"Zob;Zib;Zab;Zub",
          "is_draft":"false",
          "id_shopify":14565665666545,
+         "featured_image": "https://picsum.photos/200/300",
          "variants":{
             "green":{
                "id":454545454545,
@@ -116,6 +118,7 @@
          "tags":"Zob;Zib;Zab;Zub",
          "is_draft":"false",
          "id_shopify":152415263666,
+         "featured_image": "https://picsum.photos/200/300",
          "variants":{
             "green":{
                "id":454545454545,
