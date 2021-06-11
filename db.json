@@ -11,12 +11,13 @@
       "is_draft": "false",
       "id_shopify": 14528766545,
       "variants": [
-        "green": {
+        "green": [
+          {
           "id": 454545454545,
           "id_product": 5465465456456,
           "color": "green",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -30,13 +31,13 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        },
-        "yellow": {
+        }],
+        "yellow": [{
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -50,7 +51,7 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }
+        }]
       ]
     },
     {
@@ -64,12 +65,12 @@
       "is_draft": "false",
       "id_shopify": 14565665666545,
       "variants": [
-        "green": {
+        "green": [{
           "id": 454545454545,
           "id_product": 5465465456456,
           "color": "green",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -83,13 +84,13 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        },
-        "yellow": {
+        }],
+        "yellow": [{
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -103,7 +104,7 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }
+        }]
       ]
     },
     {
@@ -117,12 +118,12 @@
       "is_draft": "false",
       "id_shopify": 152415263666,
       "variants": [
-        "green": {
+        "green": [{
           "id": 454545454545,
           "id_product": 5465465456456,
           "color": "green",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -136,13 +137,13 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        },
-        "yellow": {
+        }],
+        "yellow": [{
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
           "size": "",
-          "sku":, "",
+          "sku": "",
           "made_in": "",
           "article_code": "",
           "algolia_color": "",
@@ -156,7 +157,7 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }
+        }]
       ]
     }
   ]
