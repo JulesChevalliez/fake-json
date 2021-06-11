@@ -10,8 +10,8 @@
       "tags": "Zob;Zib;Zab;Zub",
       "is_draft": "false",
       "id_shopify": 14528766545,
-      "variants": [
-        "green": [
+      "variants": {
+        "green":
           {
           "id": 454545454545,
           "id_product": 5465465456456,
@@ -31,8 +31,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }],
-        "yellow": [{
+        },
+        "yellow": {
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
@@ -51,8 +51,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }]
-      ]
+        }
+      }
     },
     {
       "id": 45665139268256,
@@ -64,8 +64,8 @@
       "tags": "Zob;Zib;Zab;Zub",
       "is_draft": "false",
       "id_shopify": 14565665666545,
-      "variants": [
-        "green": [{
+      "variants": {
+        "green": {
           "id": 454545454545,
           "id_product": 5465465456456,
           "color": "green",
@@ -84,8 +84,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }],
-        "yellow": [{
+        },
+        "yellow": {
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
@@ -104,8 +104,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }]
-      ]
+        }
+      }
     },
     {
       "id": 654654682789356,
@@ -117,8 +117,8 @@
       "tags": "Zob;Zib;Zab;Zub",
       "is_draft": "false",
       "id_shopify": 152415263666,
-      "variants": [
-        "green": [{
+      "variants": {
+        "green": {
           "id": 454545454545,
           "id_product": 5465465456456,
           "color": "green",
@@ -137,8 +137,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }],
-        "yellow": [{
+        },
+        "yellow": {
           "id": 53656465468465465,
           "id_product": 5465465456456,
           "color": "yellow",
@@ -157,8 +157,8 @@
           "details_fr": "",
           "details_en": "",
           "details_nl": "",
-        }]
-      ]
+        }
+      }
     }
   ]
 }
