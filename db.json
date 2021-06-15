@@ -12,7 +12,7 @@
          "is_draft":"false",
          "id_shopify":14528766545,
          "featured_image":"https://picsum.photos/300/300",
-         "published": false,
+         "published": true,
          "variants":{
             "green":{
                "id":454545454545,
