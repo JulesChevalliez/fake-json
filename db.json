@@ -251,10 +251,16 @@
    ],
    "optionsFilter":[
       {
-         "options":{
-            "title":"title",
-            "dressing":"dressings"
-         }
+         "options":[
+            {
+               "label": "title",
+               "value": "title"
+            },
+            {
+               "label": "dressings",
+               "value": "dressings"
+            }
+         ]
       }
    ]
 }
