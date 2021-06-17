@@ -8,11 +8,11 @@
          "vendor":"Bellrose",
          "season":"Summer 2021",
          "tags":"Zob;Zib;Zab;Zub",
-         "code_lookbook": "4516836",
+         "code_lookbook":"4516836",
          "is_draft":"false",
          "id_shopify":14528766545,
          "featured_image":"https://picsum.photos/300/300",
-         "published": true,
+         "published":true,
          "variants":{
             "green":{
                "id":454545454545,
@@ -134,7 +134,6 @@
                "details_en":"gray detail en",
                "details_nl":""
             }
-            
          }
       },
       {
@@ -145,11 +144,11 @@
          "vendor":"Bellrose",
          "season":"Summer 2021",
          "tags":"Zob;Zib;Zab;Zub",
-         "code_lookbook": "4516836",
+         "code_lookbook":"4516836",
          "is_draft":"false",
          "id_shopify":14565665666545,
          "featured_image":"https://picsum.photos/200/300",
-         "published": false,
+         "published":false,
          "variants":{
             "green":{
                "id":454545454545,
@@ -199,13 +198,13 @@
          "dressing":"Homme",
          "handle":"short_a_fleurs",
          "vendor":"Bellrose",
-         "code_lookbook": "4516836",
+         "code_lookbook":"4516836",
          "season":"Summer 2021",
          "tags":"Zob;Zib;Zab;Zub",
          "is_draft":"false",
          "id_shopify":152415263666,
          "featured_image":"https://picsum.photos/400/300",
-         "published": false,
+         "published":false,
          "variants":{
             "green":{
                "id":454545454545,
@@ -253,9 +252,9 @@
    "options_filter":[
       {
          "options":{
-            "title": "title",
-            "dressing": "dressings",
-          }
+            "title":"title",
+            "dressing":"dressings"
+         }
       }
    ]
 }
