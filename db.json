@@ -250,7 +250,7 @@
          }
       }
    ],
-   "options_filter"[
+   "options_filter":[
       {
          "options":{
             "title": "title",
