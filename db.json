@@ -253,12 +253,74 @@
       {
          "options":[
             {
-               "label": "title",
-               "value": "title"
+               "label":"title",
+               "value":"title"
             },
             {
-               "label": "dressings",
-               "value": "dressings"
+               "label":"dressings",
+               "value":"dressings"
+            }
+         ]
+      }
+   ],
+   "draft":[
+      {
+         "4516836":[
+            {
+               "id":654654682789356,
+               "title":"Short à Fleurs",
+               "dressing":"Homme",
+               "handle":"short_a_fleurs",
+               "vendor":"Bellrose",
+               "code_lookbook":"4516836",
+               "season":"Summer 2021",
+               "tags":"Zob;Zib;Zab;Zub",
+               "is_draft":"false",
+               "id_shopify":152415263666,
+               "featured_image":"https://picsum.photos/400/300",
+               "published":false,
+               "variants":{
+                  "green":{
+                     "id":454545454545,
+                     "id_product":5465465456456,
+                     "color":"green",
+                     "size":"",
+                     "sku":"",
+                     "made_in":"",
+                     "article_code":"",
+                     "algolia_color":"",
+                     "tags":"",
+                     "description_fr":"",
+                     "description_en":"",
+                     "description_nl":"",
+                     "composition_fr":"",
+                     "composition_en":"",
+                     "composition_nl":"",
+                     "details_fr":"",
+                     "details_en":"",
+                     "details_nl":""
+                  },
+                  "yellow":{
+                     "id":53656465468465465,
+                     "id_product":5465465456456,
+                     "color":"yellow",
+                     "size":"",
+                     "sku":"",
+                     "made_in":"",
+                     "article_code":"",
+                     "algolia_color":"",
+                     "tags":"",
+                     "description_fr":"",
+                     "description_en":"",
+                     "description_nl":"",
+                     "composition_fr":"",
+                     "composition_en":"",
+                     "composition_nl":"",
+                     "details_fr":"",
+                     "details_en":"",
+                     "details_nl":""
+                  }
+               }
             }
          ]
       }
