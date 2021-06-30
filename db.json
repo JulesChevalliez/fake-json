@@ -164,9 +164,8 @@
          "prev_page_url":null,
          "to":10,
          "total":277
-      }
-   },
-   "empty_trad":{
+      },
+      "empty_trad":{
       "en":{
          "composition":0,
          "description":738,
@@ -192,4 +191,5 @@
          "total":739
       }
    }
+   },
 }
