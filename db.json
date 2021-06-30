@@ -166,30 +166,30 @@
          "total":277
       },
       "empty_trad":{
-      "en":{
-         "composition":0,
-         "description":738,
-         "detail":0,
-         "made_in":0,
-         "washcare":0,
-         "total":738
-      },
-      "fr":{
-         "composition":1,
-         "description":737,
-         "detail":0,
-         "made_in":1,
-         "washcare":1,
-         "total":740
-      },
-      "nl":{
-         "composition":0,
-         "description":739,
-         "detail":0,
-         "made_in":0,
-         "washcare":0,
-         "total":739
+         "en":{
+            "composition":0,
+            "description":738,
+            "detail":0,
+            "made_in":0,
+            "washcare":0,
+            "total":738
+         },
+         "fr":{
+            "composition":1,
+            "description":737,
+            "detail":0,
+            "made_in":1,
+            "washcare":1,
+            "total":740
+         },
+         "nl":{
+            "composition":0,
+            "description":739,
+            "detail":0,
+            "made_in":0,
+            "washcare":0,
+            "total":739
+         }
       }
    }
-   },
 }
