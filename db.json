@@ -1,195 +1,22 @@
 {
-   "products":{
-      "product_list":{
-         "current_page":1,
-         "data":[
+   "data":[
+      {
+         "zara":[
             {
-               "id":5,
-               "title":"Sacoches Bananes",
-               "dressing":"GA_FAMILLENIV2-B",
-               "handle":"ga_familleniv2-b-211-joan-$$_artlibellefam4-pants",
-               "vendor":"Bellerose",
-               "season":"B 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:44.000000Z",
-               "updated_at":"2021-06-25T08:43:44.000000Z",
-               "variants":24
+               "chemise":10
             },
             {
-               "id":6,
-               "title":"JONN $$_ARTLIBELLEFAM4-SHORTS",
-               "dressing":"GA_FAMILLENIV2-B",
-               "handle":"ga_familleniv2-b-211-jonn-$$_artlibellefam4-shorts",
-               "vendor":"Bellerose",
-               "season":"B 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:44.000000Z",
-               "updated_at":"2021-06-29T15:32:17.000000Z",
-               "variants":24
-            },
-            {
-               "id":7,
-               "title":"PACCO $$_ARTLIBELLEFAM4-OVERSHIRTS",
-               "dressing":"GA_FAMILLENIV2-B",
-               "handle":"ga_familleniv2-b-211-pacco-$$_artlibellefam4-overshirts",
-               "vendor":"Bellerose",
-               "season":"B 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":16
-            },
-            {
-               "id":8,
-               "title":"JULES $$_ARTLIBELLEFAM4-SWIMWEAR",
-               "dressing":"GA_FAMILLENIV2-M",
-               "handle":"ga_familleniv2-m-211-jules-$$_artlibellefam4-swimwear",
-               "vendor":"Bellerose",
-               "season":"M 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":24
-            },
-            {
-               "id":9,
-               "title":"AROFLE $$_ARTLIBELLEFAM4-KNITWEAR",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-arofle-$$_artlibellefam4-knitwear",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":12
-            },
-            {
-               "id":10,
-               "title":"ACRYLIC $$_ARTLIBELLEFAM4-DRESSES",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-acrylic-$$_artlibellefam4-dresses",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":12
-            },
-            {
-               "id":11,
-               "title":"LEVINE $$_ARTLIBELLEFAM4-SKIRTS",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-levine-$$_artlibellefam4-skirts",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":12
-            },
-            {
-               "id":12,
-               "title":"LEXIE $$_ARTLIBELLEFAM4-SKIRTS",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-lexie-$$_artlibellefam4-skirts",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":18
-            },
-            {
-               "id":13,
-               "title":"JULY $$_ARTLIBELLEFAM4-T-SHIRTS",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-july-$$_artlibellefam4-t-shirts",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":12
-            },
-            {
-               "id":14,
-               "title":"JUL $$_ARTLIBELLEFAM4-T-SHIRTS",
-               "dressing":"GA_FAMILLENIV2-W",
-               "handle":"ga_familleniv2-w-211-jul-$$_artlibellefam4-t-shirts",
-               "vendor":"Bellerose",
-               "season":"W 211",
-               "shopify_id":null,
-               "is_draft":0,
-               "to_publish":0,
-               "published_at":null,
-               "created_at":"2021-06-25T08:43:45.000000Z",
-               "updated_at":"2021-06-25T08:43:45.000000Z",
-               "variants":12
+               "tee shirt":5
             }
          ],
-         "first_page_url":"http:\/\/clementb.ngrok.io\/api\/products?page=1",
-         "from":1,
-         "last_page":28,
-         "last_page_url":"http:\/\/clementb.ngrok.io\/api\/products?page=28",
-         "next_page_url":"http:\/\/clementb.ngrok.io\/api\/products?page=2",
-         "path":"http:\/\/clementb.ngrok.io\/api\/products",
-         "per_page":10,
-         "prev_page_url":null,
-         "to":10,
-         "total":277
-      },
-      "empty_trad":{
-         "en":{
-            "composition":0,
-            "description":738,
-            "detail":0,
-            "made_in":0,
-            "washcare":0,
-            "total":738
-         },
-         "fr":{
-            "composition":1,
-            "description":737,
-            "detail":0,
-            "made_in":1,
-            "washcare":1,
-            "total":740
-         },
-         "nl":{
-            "composition":0,
-            "description":739,
-            "detail":0,
-            "made_in":0,
-            "washcare":0,
-            "total":739
-         }
+         "adidas":[
+            {
+               "sneaker":25
+            },
+            {
+               "short":15
+            }
+         ]
       }
-   }
+   ]
 }
